@@ -11,10 +11,7 @@
     </ADDITIONAL_GENERATION_ENVIRONMENT>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd9e8268-160f-424c-b2e1-251fb82c05c3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/checked_numbers.h" />
-    </list>
+    <list default="true" id="bd9e8268-160f-424c-b2e1-251fb82c05c3" name="Default" comment="" />
     <ignored path="checked_numbers.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
